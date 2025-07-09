@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassan!
-- 👀 I’m interested in Programming, Cryptocurrency and anything Cyber Security!
-- 🌱 I’m currently learning: OSINT | Rust Programming🦀
-- 📫 How to reach me: hassan.a6321@gmail.com
+- Hi, I’m Hassan!
+- I’m interested in Programming, Cryptocurrency and anything Cyber Security!
+- I’m currently learning: Solana | Rust Programming🦀
+- How to reach me: hassan.a6321@gmail.com
