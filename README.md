@@ -1,7 +1,7 @@
-Hi, I’m Hassan!
+## Hi, I’m Hassan
 
-I’m interested in Programming, Blockchain and anything security related!
+Developing projects across backend systems, blockchain infrastructure, and security-focused tooling.
 
-Currently utilizing: Rust | Solana (Anchor Framework) | Solidity
+Working with **Rust**, **Python**, **Solidity**, **SQL**, and **Solana/Anchor**.
 
-How to reach me: has.a19142@gmail.com
+Open to collaboration — reach me via GitHub or LinkedIn!
